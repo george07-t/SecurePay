@@ -1,0 +1,38 @@
+[versions]
+agp = "8.7.3"
+biometric = "1.1.0"
+cardForm = "5.4.0"
+junit = "4.13.2"
+junitVersion = "1.1.5"
+espressoCore = "3.5.1"
+appcompat = "1.6.1"
+material = "1.10.0"
+activity = "1.8.0"
+constraintlayout = "2.1.4"
+googleGmsGoogleServices = "4.4.2"
+firebaseAuth = "23.1.0"
+firebaseDatabase = "21.0.0"
+mockitoCore = "5.5.0"
+recyclerview = "1.3.2"
+robolectric = "4.10.3"
+
+[libraries]
+biometric = { module = "androidx.biometric:biometric", version.ref = "biometric" }
+card-form = { module = "com.braintreepayments:card-form", version.ref = "cardForm" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+ext-junit = { group = "androidx.test.ext", name = "junit", version.ref = "junitVersion" }
+espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
+appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
+constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+firebase-auth = { group = "com.google.firebase", name = "firebase-auth", version.ref = "firebaseAuth" }
+firebase-database = { group = "com.google.firebase", name = "firebase-database", version.ref = "firebaseDatabase" }
+mockito-core = { module = "org.mockito:mockito-core", version.ref = "mockitoCore" }
+recyclerview = { module = "androidx.recyclerview:recyclerview", version.ref = "recyclerview" }
+robolectric = { module = "org.robolectric:robolectric", version.ref = "robolectric" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+google-gms-google-services = { id = "com.google.gms.google-services", version.ref = "googleGmsGoogleServices" }
+

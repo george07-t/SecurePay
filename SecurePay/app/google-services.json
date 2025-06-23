@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391411044604",
+    "project_id": "pay-cfb1b",
+    "storage_bucket": "pay-cfb1b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391411044604:android:9bf73ff7e006dec7050779",
+        "android_client_info": {
+          "package_name": "com.example.securepay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeCOIALiKvuzEMmfBXUHEbyyzF7fGM2Cg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

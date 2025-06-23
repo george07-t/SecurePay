@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SecurePay</string>
+    //Headings
+    <string name="heading_one">Get Started</string>
+    <string name="heading_two">Do Safe Transactions</string>
+    <string name="heading_three">Let us Begin</string>
+    <string name="open"></string>
+    <string name="close"></string>
+
+    //Description
+    <string name="desc_one">Start exploring with SecurePay</string>
+    <string name="desc_two">Transact you Money safely</string>
+    <string name="desc_three">Begin your journey with SecurePay</string>
+    <string name="tap_here">Tap Here</string>
+    <string name="number">number</string>
+    <string name="username">USername</string>
+    <string-array name="bank_names">
+        <item>Bank A</item>
+        <item>Bank B</item>
+        <item>Bank C</item>
+        <item>Bank D</item>
+        <item>Bank E</item>
+    </string-array>
+
+    <string-array name="transfer_types">
+        <item>Wire Transfer</item>
+        <item>Cheque</item>
+        <item>Online Transfer</item>
+    </string-array>
+
+</resources>

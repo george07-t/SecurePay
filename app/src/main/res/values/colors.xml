@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="splash0">#343e56</color>
+    <color name="edit_text_background">#d9d9d9d9</color>
+    <color name="main">#6C63FF</color>
+    <color name="red">#ff0000</color>
+    <color name="green">#00ff00</color>
+    <color name="blue">#0000ff</color>
+    //onboarding colors
+    <color name="background">#F0F4F3</color>
+    <color name="buttontext">#50C2C9</color>
+
+    //indicator color
+    <color name="inactive">#C4C4C4</color>
+    <color name="active">#50C2C9</color>
+    <color name="lightGreen">#C8E6C9</color> <!-- Light green color -->
+    <color name="lightRed">#FFCDD2</color> <!-- Light red color -->
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="primaryTextColor">#161515</color>
+    <color name="secondaryTextColor">#424242</color>
+    <color name="approveColor">#4A874D</color> <!-- Green for approve -->
+    <color name="rejectColor">#D75950</color>
+    <color name="gradientStartColor">#FF6200EE</color> <!-- Start Color (e.g., Purple) -->
+    <color name="gradientEndColor">#FF3700B3</color>   <!-- End Color (e.g., Dark Purple) -->
+
+    <!-- Border Color -->
+    <color name="borderColor">#FFBB86FC</color>
+</resources>
