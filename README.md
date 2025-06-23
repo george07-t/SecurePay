@@ -4,6 +4,12 @@ SecurePay is a next-generation Android banking app that empowers users to manage
 
 ---
 
+## 📱 App Screenshots
+<!-- Add screenshots of your app here -->
+![UI-1](https://github.com/user-attachments/assets/32b26145-3fb7-4164-9b86-682136082f68)
+
+---
+
 ## 🚀 Key Features
 
 ### 🏦 Bank Account Management
@@ -46,6 +52,17 @@ SecurePay is a next-generation Android banking app that empowers users to manage
 
 ---
 
+## 🗂️ Flow Diagram
+<!-- Add your app's flow diagram here -->
+![Flow Diagram drawio](https://github.com/user-attachments/assets/31c39c96-9da1-4c8b-a2de-4a7e0932fe35)
+
+---
+
+## 📝 Use Case Diagram
+<!-- Add your app's use case diagram here -->
+![Use Case Diagram drawio(1)](https://github.com/user-attachments/assets/089595fd-b087-492d-8414-5bfbfda9d280)
+
+---
 ## 🛠️ Getting Started
 
 1. **Clone the repository:**
